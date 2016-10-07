@@ -17,6 +17,7 @@ defmodule Phkite.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", HomeController, :index
+    post "/grab", HomeController, :grab
   end
 
   # Other scopes may use custom stacks.

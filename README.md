@@ -9,11 +9,11 @@ To start your new PhKite app:
   * Just start this shit 💩
 
 What it can do (or will do):
-  * ✅ Grab social link and return download link (twitter video, instagram, youtube)
-  * ✅ Convert media from link/file to format (twitter `gif` to actual gif, 4chan webm to mp4/gif)
-  * ✅ Authorize to save and share results (Twitter/Facebook/Telegram)
-  * ✅ Present actual API for this (get, convert, share)
-  * ✅ Telegram Bot (Maybe)
+  * 🔳 Grab social link and return download link (twitter video, instagram, youtube)
+  * 🔳 Convert media from link/file to format (twitter `gif` to actual gif, 4chan webm to mp4/gif)
+  * 🔳 Authorize to save and share results (Twitter/Facebook/Telegram)
+  * 🔳 Present actual API for this (get, convert, share)
+  * 🔳 Telegram Bot (Maybe)
 
 #### Grabbing social links
 
